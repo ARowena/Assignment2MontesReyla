@@ -1,5 +1,5 @@
 ---
-title: "Information and Communications Technology (ICT) and Emigration Flows"
+title: "Technology and Emigration Flows"
 subtitle:  "Final Project Proposal"
 author: "Ayra Rowena Reyla and Ana Cecilia Montes"
 date: "15 October 2015"
@@ -9,9 +9,6 @@ toc: true
 theme: united
 highlight: zenburn
 ---
-
-
-
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
