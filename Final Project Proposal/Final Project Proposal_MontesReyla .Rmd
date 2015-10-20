@@ -24,7 +24,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 
 
-# 1 Information 
+# 1 Introduction
 
 
 Migration, the movement of individuals is quite literally, shaping and changing the face of societies. International migration and emigration is part of a transitional shift is hardly a new phenomenon, but more recently it has gained momentum amongst academic scholars and policy makers. People have moved from country to country for centuries, be it for social, political or economic reasons. More than 200 individuals now live outside of their home country and few countries are unaffected by international migration (Martin, 2014). International emigration is part of a transnational shift that is currently reshaping societies and politics around the globe. 
@@ -40,7 +40,7 @@ One driving factor increasingly put forward in recent years is the use of techno
 Has the increase use of technology affected the flow of emigration?
 
 # 3 State of the Art
-Does theory point to a complementary or substantive correlation of technology usage and emigration? 
+
 
 
 # 4 Method
@@ -49,19 +49,11 @@ In order to examine the flows of migration, we intend to to use data on trends i
 
 ##4.2 Emperical Strategy
 
+To examine the hypothesized effect technology, cross country panel data analysis will be conducted. 
+
 
 #**References**
 
-```{r cars}
-summary(cars)
-```
 
 
 
-You can also embed plots, for example:
-
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
-
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
