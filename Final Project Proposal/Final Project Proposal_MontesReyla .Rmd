@@ -19,14 +19,14 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # 1 Information 
 
+
 Migration, the movement of individuals is quite literally, shaping and changing the face of societies. International migration and emigration is part of a transitional shift is hardly a new phenomenon, but more recently it has gained momentum amongst academic scholars and policy makers. People have moved from country to country for centuries, be it for social, political or economic reasons. More than 200 individuals now live outside of their home country and few countries are unaffected by international migration (Martin, 2014). International emigration is part of a transnational shift that is currently reshaping societies and politics around the globe. 
 
 Migration is one of the three main determinants of a country's population development. The other two - the birth and death rate - are generally believed to be easier to forecast (Castles et al.). However, factors that have classically been seen as drivers for migration between two countries such as [a] conditions in the sending country driving out in habitants, including political troubles, persecution, conflict and other "push factors"", [b] conditions in the receiving country attracting migrants, such as higher wages, better know as "pull factors", and [c] factors which facilitate or authorize the migration process itself, such as the receiving country's immigration politics. 
 
-More recently, there there been new trends that have also enhanced the population flows. Martin (2014) highlights four trends that have increased and continue to improve migration flows.  First, the demand of multinational countries to strengthen global mobility has improved the influx in _economic integration_. Secondly, the change in _geo-political and security_ has enhanced international cooperation, with autonomous countries seeking legitimate forms of transnational mobility, in a world posed with any security threats. A third trend that has portend the need for enhanced economic cooperation is the _increasing transnationalism_, whereas individual migrants hare able to maintain strong relationships and connections in two or more countries has fostered a growing acceptance of multiple-nationality. Additionally, a fourth trend that increases migration flows can be attributed to some extent to new _challenged_, such as  _climate change_ that push individuals to migrate to a new location. 
+More recently, there been new trends that have also enhanced the population flows. Martin (2014) highlights four trends that have increased and continue to improve migration flows.  First, the demand of multinational countries to strengthen global mobility has improved the influx in _economic integration_. Secondly, the change in _geo-political and security_ has enhanced international cooperation, with autonomous countries seeking legitimate forms of transnational mobility, in a world posed with any security threats. A third trend that has portend the need for enhanced economic cooperation is the _increasing transnationalism_, whereas individual migrants hare able to maintain strong relationships and connections in two or more countries has fostered a growing acceptance of multiple-nationality. Additionally, a fourth trend that increases migration flows can be attributed to some extent to new _challenged_, such as  _climate change_ that push individuals to migrate to a new location. 
 
-
-One driving factor increasinly put forward in recent years is the use of technology. According to Hiller and Franz (2004), computer mediated communication has created new posibilities for migrants to maintain strong linkages and ties with their home nations. 
+One driving factor increasingly put forward in recent years is the use of technology. According to Hiller and Franz (2004), computer mediated communication has created new possibilities for migrants to maintain strong linkages and ties with their home nations. Improved technology has changed the landscape for communicating, and gathering knowledge and information. These revolutions that have transformed society is making travel and telecommunications cheaper and easier than ever.
 
 
 # 2 Research Question 
@@ -36,7 +36,7 @@ Has the increased use of technology affected emigration flows?
 # 3 Relevant Theories
 
 # 4 Method
-## 4.1 Data Selction
+## 4.1 Data Selection
 This analysis uses data on trends in International Migrant Stock produced by the United Nations. The data contains information from 232 countries and provides the number of migrants by destination and country of origin for four periods of time; 1990, 2000, 2010, and 2013. Moreover, to account for technology diffusion we will use World Bank indicators on the number of Internet users and the number of cellular mobile subscriptions for each country. 
 
 ##4.2 Emperical Strategy
