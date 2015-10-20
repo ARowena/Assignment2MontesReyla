@@ -8,13 +8,20 @@ output: pdf_document
 toc: true
 theme: united
 highlight: zenburn
-toc_depth: 2 
+toc_depth: 3
+---
+
+
+
+\newpage
+
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 
 ```
+
 
 
 # 1 Information 
@@ -32,7 +39,9 @@ One driving factor increasingly put forward in recent years is the use of techno
 
 Has the increase use of technology affected the flow of emigration?
 
-# 3 Relevant Theories
+# 3 State of the Art
+Does theory point to a complementary or substantive correlation of technology usage and emigration? 
+
 
 # 4 Method
 ## 4.1 Data Selection
