@@ -41,6 +41,16 @@ Has the increase use of technology affected the flow of emigration?
 
 # 3 State of the Art
 
+When examining this topic further, it is essential to examine the already present literature and theories involved. As migration has been an ongoing phenomenon for many centuries, examining the theroies will provide a strong foundation for subsequent discussion and provide a framework for the entire analysis. 
+
+According to @Castles2014 there are some determinants that "push" and "pull" individuals out of certain regions or areas. The first "push" and "pull" model was developed by Passaris in 1989, and he can be classified as a 
+_Functionalist theorist_. There here are economic, environmental, and demographic characteristics that influence an individual's choice to stay or leave a particular geographic region. There are a large number of "push" factors, among those include - population growth and density, security issues, economic opportunities, and political factors. On the other hand, the characteristics of the receiving countries may also influence people's decision to pack up and leave. These characteristics are commonly known in the literature as, "Pull" factors, much like their counterparts have a strong influence on attracting a moderate flow of people. Among them include, the demand for labour, the availability of land, economic and employment opportunities, and favourable immigration policies. 
+
+Nevertheless, the "push" and "pull" model only accounts for causal relationships between variables and does not take into account for certain simultaneous determinate. However, this analysis will not focus on residual determinants.
+
+Another theory common among the literature is the _Neo-classical theory_, which affirms that the market allocates labour depending on demand and supply. In most cases, the demand of employment will automatically provide a supply of persons willing to do the labour in order for the market to reach equilibrium. The determinants of the individual decision will be based on the wage differentials among two geographical areas. To illustrate, a person will be more willing to move to another for labour and employment if the offering wage is higher and more competitive than in their home market. 
+
+
 
 
 # 4 Method
