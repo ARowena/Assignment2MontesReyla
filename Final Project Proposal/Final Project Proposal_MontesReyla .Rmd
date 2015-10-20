@@ -15,18 +15,23 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ```
 
-## Introduction 
+ **1 Introduction** 
+----------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------
 Migration; the movement of individuals has quite literally, shaped and changed the face of societies. International migration and emigration is part of a transitional shift that is reshaping societies and politics and it is hardly a new phenomenon. People have moved from country to country for centuries, be it for social, political or economic reasons. More than 200 individuals now live outside of their home country and few countries are unaffected by international migration (Martin, 2014). International emigration is part of a transnational shift that is currently reshaping societies and politics around the globe. 
 
 Migration is one of the three main determinants of a country's population development. The other two - the birth and death rate - are generally believed to be easier to forecast (Castles et al.). However, factors that have classically been seen as drivers for migration between two countries such as [a] conditions in the sending country driving out in habitants, including political troubles, persecution, conflict and other "push factors"", [b] conditions in the receiving country attracting migrants, such as higher wages, better know as "pull factors", and [c] factors which facilitate or authorize the migration process itself, such as the receiving country's immigration politics. 
-
+ 
+ **4 Method**
+----------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------
 This paper uses data on trends in International Migrant Stock produced by the United Nations. The data contains information from 232 countries and provides the number of migrants by destination and country of origin for four periods of time; 1990, 2000, 2010, and 2013. Moreover, to account for technology diffusion we will use World Bank indicators on the number of Internet users and the number of cellular mobile subscriptions for each country. 
 
 ```{r cars}
 summary(cars)
 ```
 
-## Including Plots
+
 
 You can also embed plots, for example:
 
