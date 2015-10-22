@@ -1,13 +1,14 @@
 ---
 title: "Technology and Emigration Flows"
-subtitle:  "Final Project Proposal"
+subtitle: Final Project Proposal
 author: "Ayra Rowena Reyla and Ana Cecilia Montes"
 date: "20 October 2015"
 output: pdf_document
+bibliography: referencesreylamontes.bib
 
-toc: true
+highlight: tango
 theme: united
-highlight: zenburn
+toc: yes
 toc_depth: 3
 ---
 
@@ -75,6 +76,7 @@ One of the major limitations on migration studies is the difficulty of accessing
 [define x and y variables in the data set ]
 
 #**References**
+
 
 
 
