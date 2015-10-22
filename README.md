@@ -5,5 +5,14 @@
 </i>
 ###Second Pair Assignment: Ana Cecilia Montes and Ayra Rowena Reyla 
 ####Final Project Proposal 
-####Introduction and Background Information
+Submitted to: Prof. Dr. Christopher Gandrud 
+
+Submission Date: **October 23, 2015**
+
+
+
+
+
+
+####_Introduction and Background Information_
 
