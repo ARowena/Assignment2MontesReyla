@@ -4,9 +4,10 @@ subtitle: Final Project Proposal
 author: "Ayra Rowena Reyla and Ana Cecilia Montes"
 date: "20 October 2015"
 output: pdf_document
-bibliography: referencesreylamontes.bib
+bibliography:
+- referencesreylamontes.bib
 
-highlight: tango
+highlight: zenburn
 theme: united
 toc: yes
 toc_depth: 3
