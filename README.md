@@ -14,5 +14,20 @@ Submission Date: **October 23, 2015**
 
 
 
-####_Introduction and Background Information_
+####_Introduction_
+
+The purpose of this paper is to layour the structure and methodology of our collaborative research paper.
+
+The PDF will include: 
+
+1. Basic Introduction
+2. State of the Art
+3. Relevance
+4. Method
+5. Limitations
+
+The research paper will attempt to answer the following research question: 
+
+_Has the increase use of technologies such as internet and mobile phones affected the flow of emigration?_
+
 
