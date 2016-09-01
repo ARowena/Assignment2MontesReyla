@@ -60,7 +60,7 @@ It is beneficial for countries or governments to undestand the causes and the dr
 ## 5.1 Data Selection
 In order to examine the flows of migration, we intend to use data on trends in _International Migrant Stock_ produced by the United Nations. The data contains information from 232 countries and provides the number of migrants by destination and country of origin for four periods of time; 1990, 2000, 2010, and 2013. Moreover, to account for technology diffusion we will use _World Bank indicators_ on the number of Internet users and the number of cellular mobile subscriptions for each country. 
 
-##5.2 Emperical Strategy
+##5.2 Empirical Strategy
 
 To examine the hypothesized effect of technology, cross country panel data analysis will be conducted. Our dependent variable of interest is the total number of immigrants by country, this will be our Y and the independent variable (X) we will be stuyding are number of internet users, and the number of mobile users per country. The countrol variables we plan on using include, wage differentials, economic growth, unemployment, criminal death rate, conflict and political freedoms. This research will use panel data methods to address the research question, this includes panel data regression, fixed effects and random effects. 
 
